@@ -7,10 +7,10 @@ Requerimientos:
 Pasos para descargar e instalar
 
 Clonar repositorio:
-git clone 
+git clone https://github.com/JoseDavid1995/TestTechnical.git
 
 Descargar dependencias
-mvn install
+mvn clean install
 
 
 
